@@ -5,9 +5,12 @@ import Main from './component/mainPage/main'
 interface Props {}
 const App:React.FC<Props> = () => {
   return (
-    <Routes>
-      <Route path='/' element={<Main />} />
-    </Routes>
+    <>
+      <h1>아니 이게 벌써</h1>
+      <Routes>
+        <Route path='/' element={<Main />} />
+      </Routes>
+    </>
   )
 }
 export default App;
