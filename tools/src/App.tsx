@@ -1,13 +1,12 @@
 import React from 'react';
-import { Routes, Route } from 'react-router-dom';
-import Main from './component/main/main'
+import './App.css';
 
-interface Props {}
-const App: React.FC<Props> = () => {
+function App() {
   return (
-    <Routes>
-      <Route path='/' element={<Main />} />
-    </Routes>
-  )
+    <div className="App">
+
+    </div>
+  );
 }
+
 export default App;
