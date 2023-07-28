@@ -1,10 +1,10 @@
 import React from "react";
-import { Container } from "../../styles/Container/Container.styled";
+import { Container } from "../../styles/Container/Container.style";
 import {
   Header,
   MainHeader,
   HeaderTitle,
-} from "../../styles/Header/Header.styled";
+} from "../../styles/Header/Header.style";
 
 interface HomeProps {}
 const Home: React.FC<HomeProps> = () => {
