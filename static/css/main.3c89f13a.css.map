@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3c89f13a.css","mappings":"AAAA,cACE,iBAAkB,CAClB,QACF","sources":["screens/Post/PostBoard.css"],"sourcesContent":[".BoardWrapper {\r\n  position: relative;\r\n  top: 85px;\r\n}"],"names":[],"sourceRoot":""}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c89f13a.css",
+    "main.js": "/static/js/main.9cf5d6b4.js",
+    "static/media/React_Banner.png": "/static/media/React_Banner.5ea2c43ba6ed2116339d.png",
+    "static/media/circleLogo.svg": "/static/media/circleLogo.85022653da1494a2c33350424c666804.svg",
+    "index.html": "/index.html",
+    "main.3c89f13a.css.map": "/static/css/main.3c89f13a.css.map",
+    "main.9cf5d6b4.js.map": "/static/js/main.9cf5d6b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c89f13a.css",
+    "static/js/main.9cf5d6b4.js"
+  ]
+}
